@@ -1,0 +1,14 @@
+@import "./reboot";
+@import "./variables";
+@import "./utility";
+
+body {
+    height: 100vh;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid $primary;
+    transition: 0.5s;
+}

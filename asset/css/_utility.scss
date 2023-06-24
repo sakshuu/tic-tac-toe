@@ -1,0 +1,29 @@
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flex-column {
+    flex-direction: column;
+    gap: 80px;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.w-350 {
+    width: 350px;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
